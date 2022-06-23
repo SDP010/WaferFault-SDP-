@@ -1,0 +1,8 @@
+2022-06-21/00:52:54		Error Occured : 'str' object has no attribute 'close' 
+2022-06-21/00:55:40		Error Occured : 'str' object has no attribute 'close' 
+2022-06-21/00:56:05		Error Occured : 'str' object has no attribute 'close' 
+2022-06-21/00:56:59		Error Occured : 'str' object has no attribute 'close' 
+2022-06-21/00:57:34		Error Occured : 'str' object has no attribute 'close' 
+2022-06-21/00:58:01		Error Occured : 'str' object has no attribute 'close' 
+2022-06-21/11:28:05		Error Occured : I/O operation on closed file. 
+2022-06-21/11:33:50		Error Occured : I/O operation on closed file. 

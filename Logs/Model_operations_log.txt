@@ -1,0 +1,29 @@
+2022-06-21/11:52:00		Model File KMeans saved
+2022-06-21/11:52:00		Correct model loaded
+2022-06-21/11:52:00		Model File RandomForest2 saved
+2022-06-21/11:52:00		Correct model loaded
+2022-06-21/11:52:00		Model File RandomForest0 saved
+2022-06-21/11:52:00		Correct model loaded
+2022-06-21/11:52:00		Model File RandomForest1 saved
+2022-06-21/12:03:33		the model saved into file KMeans
+2022-06-21/12:03:39		the model saved into file RandomForest2
+2022-06-21/12:04:02		the model saved into file RandomForest0
+2022-06-21/12:04:10		the model saved into file RandomForest1
+2022-06-21/12:05:54		Model File KMeans saved
+2022-06-21/12:05:54		Correct model loaded
+2022-06-21/12:05:54		Model File RandomForest2 saved
+2022-06-21/12:05:54		Correct model loaded
+2022-06-21/12:05:54		Model File RandomForest0 saved
+2022-06-21/12:05:54		Correct model loaded
+2022-06-21/12:05:54		Model File RandomForest1 saved
+2022-06-21/12:11:07		the model saved into file KMeans
+2022-06-21/12:11:13		the model saved into file RandomForest2
+2022-06-21/12:11:42		the model saved into file RandomForest0
+2022-06-21/12:11:57		the model saved into file RandomForest1
+2022-06-21/12:13:51		Model File KMeans saved
+2022-06-21/12:13:51		Correct model loaded
+2022-06-21/12:13:51		Model File RandomForest2 saved
+2022-06-21/12:13:51		Correct model loaded
+2022-06-21/12:13:51		Model File RandomForest0 saved
+2022-06-21/12:13:51		Correct model loaded
+2022-06-21/12:13:51		Model File RandomForest1 saved
