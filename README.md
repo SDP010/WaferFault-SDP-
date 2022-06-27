@@ -26,6 +26,7 @@ KNN Imputer
 K-Means Clustering
 #### Prediction:
 Random Forest
+SVM
 
 
 ## Description
