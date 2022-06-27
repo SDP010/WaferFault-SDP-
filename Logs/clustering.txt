@@ -4,3 +4,12 @@
 2022-06-21/12:11:06		Elbow plot created and saved successfully 
 2022-06-21/12:11:06		The optimum number of clusters is: 3
 2022-06-21/12:11:07		succesfully created 3clusters
+2022-06-23/12:14:27		Elbow plot created and saved successfully 
+2022-06-23/12:14:27		The optimum number of clusters is: 3
+2022-06-23/12:14:28		succesfully created 3clusters
+2022-06-27/20:02:35		Elbow plot created and saved successfully 
+2022-06-27/20:02:35		The optimum number of clusters is: 3
+2022-06-27/20:02:35		succesfully created 3clusters
+2022-06-27/20:19:43		Elbow plot created and saved successfully 
+2022-06-27/20:19:43		The optimum number of clusters is: 3
+2022-06-27/20:19:44		succesfully created 3clusters

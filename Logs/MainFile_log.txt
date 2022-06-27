@@ -6,3 +6,4 @@
 2022-06-21/00:58:01		Error Occured : 'str' object has no attribute 'close' 
 2022-06-21/11:28:05		Error Occured : I/O operation on closed file. 
 2022-06-21/11:33:50		Error Occured : I/O operation on closed file. 
+2022-06-27/19:59:54		Error Occured : [WinError 32] The process cannot access the file because it is being used by another process: 'Logs/Training_Logs/training_log.txt' 

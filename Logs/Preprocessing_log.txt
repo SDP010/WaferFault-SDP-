@@ -18,3 +18,33 @@
 2022-06-21/12:13:46		Null values checking successful!!
 2022-06-21/12:13:50		Missing values imputation successful!!
 2022-06-21/12:13:51		Column removal Successful!!
+2022-06-23/12:14:18		Column removal Successful!!
+2022-06-23/12:14:18		Label and Feature separation successful!!
+2022-06-23/12:14:18		Null values exist!!
+2022-06-23/12:14:18		Null values checking successful!!
+2022-06-23/12:14:20		Missing values imputation successful!!
+2022-06-23/12:14:21		Column removal Successful!!
+2022-06-23/12:16:41		Null values exist!!
+2022-06-23/12:16:41		Null values checking successful!!
+2022-06-23/12:16:44		Missing values imputation successful!!
+2022-06-23/12:16:45		Column removal Successful!!
+2022-06-27/20:02:28		Column removal Successful!!
+2022-06-27/20:02:28		Label and Feature separation successful!!
+2022-06-27/20:02:28		Null values exist!!
+2022-06-27/20:02:28		Null values checking successful!!
+2022-06-27/20:02:31		Missing values imputation successful!!
+2022-06-27/20:02:33		Column removal Successful!!
+2022-06-27/20:04:48		Null values exist!!
+2022-06-27/20:04:48		Null values checking successful!!
+2022-06-27/20:04:52		Missing values imputation successful!!
+2022-06-27/20:04:54		Column removal Successful!!
+2022-06-27/20:19:39		Column removal Successful!!
+2022-06-27/20:19:39		Label and Feature separation successful!!
+2022-06-27/20:19:39		Null values exist!!
+2022-06-27/20:19:39		Null values checking successful!!
+2022-06-27/20:19:41		Missing values imputation successful!!
+2022-06-27/20:19:41		Column removal Successful!!
+2022-06-27/20:21:40		Null values exist!!
+2022-06-27/20:21:40		Null values checking successful!!
+2022-06-27/20:21:43		Missing values imputation successful!!
+2022-06-27/20:21:45		Column removal Successful!!

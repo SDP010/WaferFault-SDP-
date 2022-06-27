@@ -1,6 +1,8 @@
 import os
 import shutil
 from flask import Flask, request, render_template
+from flask_cors import CORS, cross_origin
+import flask_monitoringdashboard as dashboard
 import json
 from flask_cors import cross_origin
 from Prediction_Validation import pred_validation
@@ -8,8 +10,11 @@ from Prediction_Pipeline import model_prediction
 from Train_Validation import train_validation
 from Training_Pipeline import model_train
 from Logger import Applogger
+from wsgiref import simple_server
 
 app = Flask(__name__)
+dashboard.bind(app)
+CORS(app)
 
 
 @app.route('/',methods=['GET'])
@@ -52,11 +57,9 @@ def prediction_route():
 
         train_obj = model_train()
         logger.log(file,'object for model_train() initialized!!')
-
-
+        print('22')
         train_obj.training_model()
         logger.log(file, 'Training completed!!')
-
 
         file.close()
 
@@ -69,7 +72,6 @@ def prediction_route():
         file = open('Logs/Prediction_Logs/prediction_log.txt', 'a+')
 
         logger.log(file, 'Prediction Started!!')
-
         pred_val = pred_validation(pred_path)
         logger.log(file, 'object for pred_validation() initialized!!')
 
@@ -97,7 +99,10 @@ def prediction_route():
 
 
 
-
+port = int(os.getenv("PORT",5000))
 if __name__=='__main__':
-    app.run()
+    host = '0.0.0.0'
+    httpd = simple_server.make_server(host, port, app)
+    httpd.serve_forever()
+    # app.run()
 
