@@ -105,5 +105,10 @@ def prediction_route():
 #     httpd = simple_server.make_server(host, port, app)
 #     httpd.serve_forever()
     # app.run()
+    
 if __name__=='__main__':
-    app.run(host="0.0.0.0",debug=True,port=os.environ['PORT'])
+    app.run(debug=True,port=os.getenv("PORT"))
+    
+    
+# if __name__=='__main__':
+#     app.run(host="0.0.0.0",debug=True,port=os.environ['PORT'])
