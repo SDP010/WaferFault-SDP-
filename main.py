@@ -107,7 +107,7 @@ def prediction_route():
     # app.run()
     
 if __name__=='__main__':
-    app.run(debug=True,port=os.getenv("PORT"))
+    app.run(debug=True,port=os.environ["PORT"])
     
     
 # if __name__=='__main__':
